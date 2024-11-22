@@ -1,0 +1,3 @@
+C:/Users/dimsu/CLionProjects/Simultion/cmake-build-debug/CMakeFiles/Simultion.dir
+C:/Users/dimsu/CLionProjects/Simultion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dimsu/CLionProjects/Simultion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
